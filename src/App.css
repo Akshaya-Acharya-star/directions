@@ -4,7 +4,7 @@
 }
 .section{
   padding-top: 40px;
-  padding-bottom: 40px;
+  padding-bottom: 20px;
 }
 .main-heading{
   color:brown;
@@ -525,5 +525,25 @@ a {
             height: 200px;
             position: relative;
         }
-
-        
+        #products-tab-insect-screen {
+          text-decoration: underline!important;
+          color: brown;
+          font-size: 26px;
+        }
+        #products-tab-blinds{
+          text-decoration: underline!important;
+          color: brown;
+          font-size: 26px;
+        }
+        #products-tab-insect-screen.active {
+          color: rgb(74, 71, 71);
+        }
+        #products-tab-blinds.active{
+          color: rgb(74, 71, 71);
+        }
+        .h4_sub_text{
+          font-size: 20px;
+        }
+        .h4_sub_text_list{
+          font-size: 18px;
+        }

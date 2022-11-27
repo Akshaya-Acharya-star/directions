@@ -1,6 +1,7 @@
 import React from "react";
 
 function About(){
+    document.title = "About Us";
     return(
 <div className="container">
     <div className="card mt-4">
@@ -8,9 +9,11 @@ function About(){
         <h2 class="main-heading text-decoration-underline underline_text">About Us</h2>
         </div>
         <div className="col-sm-12 col-xs-12 col-lg-12 p-3">
-        <p class="text-justify">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </p>
+        <p>
+        Directions company introduced innovations and  transfigured the market it serves. In a construction platform with our experience and in depth knowledge we deliver premium quality to users with their needs. We never compromise the quality, along with branded products manufactured in every place. 
+</p>
+<p>The innovation team always gives new trends with modern touch.As per the growing market we develop exciting and innovative products every time, which increases the commitments towards the customers.The house owners, builders, architects, interior designers offer the best flexibility, quality with reasonable price to products with service.
+</p>
     </div>
     </div>
     

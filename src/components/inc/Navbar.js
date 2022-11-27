@@ -21,10 +21,10 @@ function Navbar(){
             <div className="col-12">
             <div className="float-right">
               <i className="mr-2 fa fa-envelope-o"> </i>
-              <span className="d-none d-md-inline-block">info@yourdomain.com</span>
+              <span className="d-none d-md-inline-block">itsdirections@gmail.com</span>
               <span className="mx-md-2 d-inline-block"></span>
               <i className="mr-2 fa fa-phone"> </i>
-              <span className="d-none d-md-inline-block">1+ (234) 5678 9101</span>
+              <span className="d-none d-md-inline-block">(91) 8095006850</span>
               </div>
             </div>
           </div>
